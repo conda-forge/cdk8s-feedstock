@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "2.70.75"
+  version: "2.70.76"
 
 package:
   name: cdk8s
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/c/cdk8s/cdk8s-${{ version }}.tar.gz
-  sha256: 147520c6215db819d46c91e2bddf3d6db210875f3c20a0270be0e3e925708603
+  sha256: 1f654814c865ac6a7076002305f53c369bcbc373f1f7a5dd5a9defd1d81e5269
 
 build:
   number: 0
